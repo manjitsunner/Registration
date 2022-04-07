@@ -1,4 +1,14 @@
 [{
+ "ticker": "Sunne",
+ "poolId": "3c870eb5bb1b963693046eed1131e9375d363c0735fc9d248150d55f",
+ "social": {
+   "website": "https://sunner.org",
+   "discord": "https://discord.gg/ZW2WKYrh",
+   "github": "manjitsunner",
+   "instagram": "",
+   "youtube": ""
+ },
+ {
  "ticker": "KASH",                                                       
  "poolId": "cc7a01f31985bdbea49e87e9308a18d5318254c911f0b5289e763bd5", 
  "social": {                                                            
